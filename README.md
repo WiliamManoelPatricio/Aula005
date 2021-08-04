@@ -2,5 +2,4 @@
 ```diff
 + Aula 005
 - Aula 005
-@Aula
 ```
